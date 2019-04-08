@@ -1,0 +1,11 @@
+[package]
+name = "conquer"
+version = "0.0.0"
+authors = ["Oliver Giersch"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/oliver-giersch/conquer-rs.git"
+keywords = ["concurrency"]
+edition = "2018"
+
+[dependencies]
