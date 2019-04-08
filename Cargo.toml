@@ -1,5 +1,6 @@
 [package]
 name = "conquer"
+description = "concurrent data structures and concurrency utils"
 version = "0.0.0"
 authors = ["Oliver Giersch"]
 license = "MIT/Apache-2.0"
